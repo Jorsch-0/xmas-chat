@@ -2,7 +2,7 @@
 
 ![Demo App](https://i.ibb.co/gFSMzKN/1.png)
 
-[TypeScript version]([https://youtu.be/HwCqsOis894](https://github.com/Jorsch-0/xmas-chat-ts))
+[TypeScript version](https://github.com/Jorsch-0/xmas-chat-ts)
 
 Some Features:
 
